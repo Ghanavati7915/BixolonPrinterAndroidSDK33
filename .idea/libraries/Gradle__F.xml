@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: F">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/bixolon_printer_V2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

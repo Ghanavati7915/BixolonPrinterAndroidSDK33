@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __wrapped_aars__::bixolon_pdf:unspecified@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bixolon_pdf/build/.transforms/cc1b50f9cb6ebd11053897bf5da8f681/transformed/jetified-bixolon_pdf/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/bixolon_pdf/build/.transforms/cc1b50f9cb6ebd11053897bf5da8f681/transformed/jetified-bixolon_pdf/res" />
+      <root url="file://$PROJECT_DIR$/bixolon_pdf/build/.transforms/cc1b50f9cb6ebd11053897bf5da8f681/transformed/jetified-bixolon_pdf/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
